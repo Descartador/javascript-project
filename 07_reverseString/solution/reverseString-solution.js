@@ -1,5 +1,6 @@
-const reverseString = function (string) {
-  return string.split("").reverse().join("");
-};
+function add7(num1) {
+  return add7 + 7;
 
-module.exports = reverseString;
+}
+
+add7(1);
